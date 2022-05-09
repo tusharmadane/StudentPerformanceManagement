@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPerformanceManagement", "StudentPerformanceManagement\StudentPerformanceManagement.csproj", "{6DA59A01-502E-438E-965E-9A7733F1E527}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataConnections", "..\DataConnections\DataConnections\DataConnections.csproj", "{730AFAD3-1701-487B-A207-ADB6616C70D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA59A01-502E-438E-965E-9A7733F1E527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA59A01-502E-438E-965E-9A7733F1E527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA59A01-502E-438E-965E-9A7733F1E527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA59A01-502E-438E-965E-9A7733F1E527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730AFAD3-1701-487B-A207-ADB6616C70D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730AFAD3-1701-487B-A207-ADB6616C70D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730AFAD3-1701-487B-A207-ADB6616C70D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730AFAD3-1701-487B-A207-ADB6616C70D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F2BE53-F55F-4EFD-A1AD-EF9B5B55CD5F}
+	EndGlobalSection
+EndGlobal
