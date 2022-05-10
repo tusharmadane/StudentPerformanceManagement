@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace StudentPerformanceManagement.Models
 {
-    internal class Subject
+    public class Subject
     {
+        public int subjectID;
+        public int subject_Code;
+        public string subjectTitle;
+        public string subjectDescription;
+        public int courseID;
+
     }
 }

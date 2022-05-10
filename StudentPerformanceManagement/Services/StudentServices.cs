@@ -147,7 +147,7 @@ namespace studentperformancemanagement.Services
 
 
         }
-        public void ShowStudentInfo()
+        public void ShowSubjectInfo()
         {
             s = new Student();
             Console.WriteLine("*********************************************************************");

@@ -14,18 +14,5 @@ namespace studentperformancemanagement.Modules
     
         public string Address;
         public int cid;
-
-
-        //Student()
-        //{
-        //}
-
-        //public Student(int Roll,string Name,string Email,string Address)
-        //    {
-        //        this.Roll = Roll;
-        //        this.Name = Name;
-        //        this.Email = Email;
-        //        this.Address = Address;
-        //    }
     }
 }
